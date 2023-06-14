@@ -1,3 +1,3 @@
-# Capstone-Project-2
-EDA - Pakistan Ecommerce Large Dataset.
-Pada project ini saya akan menganalisa tren Transaksi Penjualan Ecommerce di Pakistan dengan menggunakan Dataset Pakistan Ecommerce Large Maret 2016 - Agustus 2018. Dari hasil analisa tersebut saya membuat kesimpulan mengenai tren transaksi ecommerce di Pakistan dan memberikan rekomendasi agar bisa meningkatkan tren transaksi penjualan Ecommerce di Pakistan.
+# Exploratory Data Analysis
+Dataset - Pakistan Ecommerce
+Competition in the Pakistani e-commerce industry is getting tougher. This requires e-commerce companies to determine effective strategies in order to stay ahead of the competition. One of the first steps that can be taken to determine the right strategy is to analyze trends transactions e-commerce.
